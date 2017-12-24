@@ -5,7 +5,7 @@ This is the Laravel 5.5 project demo to show running my StoreLocator Package.
 
 Laravel StoreLocator package Laravel, bootstrap, jquery,jQuery-Store-Locator-Plugin Beta v1.0.0 Laravel storelocator
 
-Demo here http://storelocator.webandwebs.com/stores
+Demo here http://webandwebs.com/stores
 
 Package built with https://github.com/bjorn2404/jQuery-Store-Locator-Plugin library. Allows you charge Countries, Zones, Regions, and Stores, and localize this last ones over Google Maps.
 
